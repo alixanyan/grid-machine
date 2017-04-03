@@ -1,6 +1,12 @@
-td{
+#container{
+    margin: 5px;
+   float: left;
+}
+
+#divInContainer{
+    margin: 5px;
+    display: block;
     width: 80px;
     height: 80px;
     border: 1px solid black;
 }
-
